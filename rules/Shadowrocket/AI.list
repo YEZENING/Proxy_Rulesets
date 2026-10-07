@@ -1,0 +1,101 @@
+# NAME: AI
+# AUTHOR: James Ye
+# UPDATED: 2026-10-07 17:27:43
+# DOMAIN: 28
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 38
+# IP-CIDR: 2
+# TOTAL: 69
+# ===== OpenAI / ChatGPT / Codex =====
+DOMAIN-SUFFIX,openai.com
+OMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN,cdn.openaimerge.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,cdn.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,setup.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,workos.imgix.net
+DOMAIN,humb.apple.com
+DOMAIN,js.stripe.com
+DOMAIN,o207216.ingest.sentry.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,rum.browser-intake-datadoghq.com
+
+# ===== Claude / Anthropic =====
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+
+# ===== Google AI / Gemini / AI Studio =====
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,colab.research.google.com
+DOMAIN-SUFFIX,colab.google
+DOMAIN-SUFFIX,colab.googleusercontent.com
+DOMAIN-KEYWORD,-colab.googleusercontent.com
+
+# ===== Microsoft Copilot =====
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+
+# ===== Meta AI =====
+DOMAIN-SUFFIX,meta.ai
+
+# ===== Grok / xAI =====
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# ===== Perplexity AI =====
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+
+# ===== LiveKit Voice Compatibility =====
+# Retained from the original ruleset.
+# LiveKit documents host/turn domains as shared infrastructure.
+# Usage by a particular ChatGPT session is not guaranteed.
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+
+# ===== Legacy Google AI Endpoints =====
+# Retained for compatibility.
+# makersuite and bard redirect to AI Studio and Gemini.
+# Current use of the two backend hosts remains unverified.
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+
+# ===== Legacy Copilot / Shared Bing Endpoints =====
+# Retained from the original ruleset.
+# Not all are confirmed dependencies of current Copilot.
+# These rules also match non-AI requests to the same hosts.
+DOMAIN,sydney.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN,services.bingapis.com
+DOMAIN,gateway.bingviz.microsoft.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,www.bing.com
+DOMAIN,r.bing.com
+
+# ===== Legacy IP Addresses =====
+# Retained from the original ruleset, one copy each.
+# Current AI-service usage is unverified.
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
