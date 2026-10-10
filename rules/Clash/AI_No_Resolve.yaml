@@ -11,7 +11,7 @@
 payload:
   # ===== OpenAI / ChatGPT / Codex =====
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chatgpt.come
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oaistatsig.com
