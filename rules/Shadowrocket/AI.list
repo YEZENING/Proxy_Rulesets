@@ -8,7 +8,7 @@
 # TOTAL: 69
 # ===== OpenAI / ChatGPT / Codex =====
 DOMAIN-SUFFIX,openai.com
-OMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatsig.com
