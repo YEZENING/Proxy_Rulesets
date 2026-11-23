@@ -1,0 +1,20 @@
+# NAME: APPLE SYSTEM SERVICES
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 9
+# TOTAL: 14
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,init.ess.apple.com
+DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,app-site-association.cdn-apple.com
+DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,configuration.apple.com.akadns.net
+DOMAIN-SUFFIX,eligibility.apple
+DOMAIN-SUFFIX,gs.apple.com
+DOMAIN-SUFFIX,init.ess.apple.com
+DOMAIN-SUFFIX,skl.apple.com
+DOMAIN-SUFFIX,xp.apple.com

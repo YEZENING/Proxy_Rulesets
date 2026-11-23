@@ -1,0 +1,36 @@
+# NAME: APPLE TV
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 25
+# USER-AGENT: 2
+# TOTAL: 29
+DOMAIN,apple-tv-plus-press.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN-SUFFIX,appleappstore.tv
+DOMAIN-SUFFIX,applecard.tv
+DOMAIN-SUFFIX,appleos.tv
+DOMAIN-SUFFIX,applepay.tv
+DOMAIN-SUFFIX,applepaycash.tv
+DOMAIN-SUFFIX,applepaysupplies.tv
+DOMAIN-SUFFIX,appletv.com
+DOMAIN-SUFFIX,appletv.fr
+DOMAIN-SUFFIX,appletv.wang
+DOMAIN-SUFFIX,appletv4.cn
+DOMAIN-SUFFIX,appletv4.com.cn
+DOMAIN-SUFFIX,appletvapp.apple
+DOMAIN-SUFFIX,applewatch.tv
+DOMAIN-SUFFIX,beddit.tv
+DOMAIN-SUFFIX,hopstop.tv
+DOMAIN-SUFFIX,imessage.tv
+DOMAIN-SUFFIX,iphone-x.tv
+DOMAIN-SUFFIX,iphonese.tv
+DOMAIN-SUFFIX,iphonexs.tv
+DOMAIN-SUFFIX,itunesradio.tv
+DOMAIN-SUFFIX,livephotos.tv
+DOMAIN-SUFFIX,quicktime.tv
+DOMAIN-SUFFIX,researchkit.tv
+DOMAIN-SUFFIX,touchid.tv
+DOMAIN-SUFFIX,tv.apple.com
+USER-AGENT,AppleTV*
+USER-AGENT,com.apple.tv*

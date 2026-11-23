@@ -1,0 +1,15 @@
+# NAME: APPLE FIND MY
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 7
+# TOTAL: 9
+DOMAIN-SUFFIX,findmybeats.com
+DOMAIN-SUFFIX,findmyipad.com
+USER-AGENT,*FindMyiPhone?
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,fmflocatord*
