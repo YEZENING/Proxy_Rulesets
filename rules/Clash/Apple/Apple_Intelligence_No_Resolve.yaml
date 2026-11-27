@@ -1,0 +1,77 @@
+# NAME: APPLE SIRI AI
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# FORMAT: Mihomo/Clash classical rule-provider YAML
+# BEHAVIOR: classical
+# NOTE: No routing policy is assigned
+# DOMAIN: 14
+# DOMAIN-SUFFIX: 17
+# DOMAIN-KEYWORD: 1
+# TOTAL: 32
+# SOURCE_TOTAL: 32
+# UNSUPPORTED_COMMENTED: 0
+payload:
+  - DOMAIN,apple-relay.apple.com
+
+  - DOMAIN,apple-relay.cloudflare.com
+
+  - DOMAIN,apple-relay.fastly-edge.com
+
+  - DOMAIN,apple-relay.mask.apple-dns.net
+
+  - DOMAIN,cp4.cloudflare.com
+
+  - DOMAIN,eligibility.apple.com
+
+  - DOMAIN,guzzoni.apple.com
+
+  - DOMAIN,guzzoni.smoot.apple.com
+
+  - DOMAIN,probe.siri.apple.com
+
+  - DOMAIN,seed-sequoia.siri.apple.com
+
+  - DOMAIN,seed-swallow.siri.apple.com
+
+  - DOMAIN,seed.siri.apple.com
+
+  - DOMAIN,sequoia.apple.com
+
+  - DOMAIN,swallow.apple.com
+
+  - DOMAIN-SUFFIX,apple-relay.akamaized.net
+
+  - DOMAIN-SUFFIX,apple-relay.apple.com
+
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+
+  - DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+
+  - DOMAIN-SUFFIX,cp4.cloudflare.com
+
+  - DOMAIN-SUFFIX,guzzoni.apple.com
+
+  - DOMAIN-SUFFIX,guzzoni.smoot.apple.com
+
+  - DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+
+  - DOMAIN-SUFFIX,probe.siri.apple.com
+
+  - DOMAIN-SUFFIX,seed-sequoia.siri.apple.com
+
+  - DOMAIN-SUFFIX,seed-swallow.siri.apple.com
+
+  - DOMAIN-SUFFIX,seed.siri.apple.com
+
+  - DOMAIN-SUFFIX,sequoia.apple.com
+
+  - DOMAIN-SUFFIX,siri.com
+
+  - DOMAIN-SUFFIX,smoot.apple.com
+
+  - DOMAIN-SUFFIX,swallow.apple.com
+
+  - DOMAIN-KEYWORD,siri
+

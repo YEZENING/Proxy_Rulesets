@@ -1,0 +1,44 @@
+# NAME: APPLE PUSH
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# FORMAT: Mihomo/Clash classical rule-provider YAML
+# BEHAVIOR: classical
+# NOTE: No routing policy is assigned
+# DOMAIN: 7
+# DOMAIN-SUFFIX: 9
+# TOTAL: 16
+# SOURCE_TOTAL: 16
+# UNSUPPORTED_COMMENTED: 0
+payload:
+  - DOMAIN,init-p01md-lb.push-apple.com.akadns.net
+
+  - DOMAIN,init-p01md.apple.com
+
+  - DOMAIN,init-p01st-lb.push-apple.com.akadns.net
+
+  - DOMAIN,init-p01st.push.apple.com
+
+  - DOMAIN,init-s01st-lb.push-apple.com.akadns.net
+
+  - DOMAIN,init-s01st.push.apple.com
+
+  - DOMAIN,push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,init-p01md.apple.com
+
+  - DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,init-p01st.push.apple.com
+
+  - DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,init-s01st.push.apple.com
+
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
+
+  - DOMAIN-SUFFIX,push.apple.com
+

@@ -1,0 +1,30 @@
+# NAME: ICLOUD PRIVATE RELAY
+# AUTHOR: James Ye
+# UPDATED: 2026-11-23 13:22:00 +0800
+# FORMAT: Mihomo/Clash classical rule-provider YAML
+# BEHAVIOR: classical
+# NOTE: No routing policy is assigned
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 6
+# TOTAL: 9
+# SOURCE_TOTAL: 9
+# UNSUPPORTED_COMMENTED: 0
+payload:
+  - DOMAIN,mask-api.icloud.com
+
+  - DOMAIN,mask-h2.icloud.com
+
+  - DOMAIN,mask.icloud.com
+
+  - DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+
+  - DOMAIN-SUFFIX,mask-api.icloud.com
+
+  - DOMAIN-SUFFIX,mask-h2.icloud.com
+
+  - DOMAIN-SUFFIX,mask-t.apple-dns.net
+
+  - DOMAIN-SUFFIX,mask.apple-dns.net
+
+  - DOMAIN-SUFFIX,mask.icloud.com
+
