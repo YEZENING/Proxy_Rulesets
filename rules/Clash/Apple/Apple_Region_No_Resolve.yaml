@@ -1,16 +1,11 @@
 # NAME: APPLE REGION
 # AUTHOR: James Ye
 # UPDATED: 2026-11-23 13:22:00 +0800
-# FORMAT: Mihomo/Clash classical rule-provider YAML
-# BEHAVIOR: classical
-# NOTE: No routing policy is assigned
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 1
 # TOTAL: 2
-# SOURCE_TOTAL: 2
-# UNSUPPORTED_COMMENTED: 0
+
 payload:
   - DOMAIN,gspe1-ssl.ls.apple.com
-
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 
